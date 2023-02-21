@@ -1,0 +1,65 @@
+
+.form-controls label {
+   font-weight: bold;
+   margin-bottom: 0.5rem;
+   display: block;
+ }
+
+ .form-controls select{
+   font: inherit;
+   padding: 0.5rem;
+   border-radius: 6px;
+   border: 1px solid #ccc;
+   width: 15rem;
+   max-width: 100%;
+ }
+
+ .form-controls_inside{
+   display: flex;
+   margin-top: 1rem;
+ }
+ 
+ .form-controls_inside input{
+   margin-left: 1rem;
+ }
+ 
+ .form-controls_inside label{
+   margin-left: 1rem;
+ }
+
+ .form-controls_inside select{
+   margin-left: 1rem;
+ }
+ 
+ .form-controls input {
+   font: inherit;
+   padding: 0.5rem;
+   border-radius: 6px;
+   border: 1px solid #ccc;
+   width: 20rem;
+   max-width: 100%;
+ }
+ 
+ 
+
+ .form-controls button {
+   font: inherit;
+   cursor: pointer;
+   padding: 1rem 2rem;
+   border: 1px solid #050942;
+   background-color: #1351e2;
+   color: white;
+   border-radius: 12px;
+   margin-right: 1rem;
+  margin-left: 26%;
+  margin-top: 2%;
+ }
+
+ .mainHeading{
+  color: #091294;
+  margin-left: 25%;
+ }
+
+ .amountDiv{
+  margin-left: 20%;
+ }

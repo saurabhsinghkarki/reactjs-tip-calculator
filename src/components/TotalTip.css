@@ -1,0 +1,16 @@
+.mainDiv{
+   display: flex;
+   justify-content: space-evenly;
+   
+   
+}
+
+h3{
+   font-size: 120%;
+   color: #08118a;
+}
+
+h6{
+   font-size: 100%;
+   margin-left: 50px;
+}

@@ -1,0 +1,29 @@
+button {
+   font: inherit;
+   cursor: pointer;
+   padding: 1rem 2rem;
+   border: 1px solid #050942;
+   background-color: #1351e2;
+   color: white;
+   border-radius: 12px;
+   margin-right: 1rem;
+  margin-left: 23%;
+  margin-top: 2%;
+ }
+
+ h2{
+      font: bold;
+      font-size: 200%;
+      cursor: pointer;
+      padding: 1rem 2rem;
+      border-radius: 12px;
+     margin-right: 1rem;
+     margin-left: 22%;
+     margin-top: 2%;
+     color: #08118a;
+    }
+ 
+    .customerList{
+      height: 200px;
+      overflow-y: scroll;
+   }
